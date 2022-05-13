@@ -1,4 +1,4 @@
-Lista minimale di debloat per Samsung Galaxy A52S 5G con One UI 4.1 (versione italiana). Rimuovi le app inutili che scambiano dati in background, aumentando la tua privacy.
+Lista minimale di debloat per Samsung Galaxy A52S 5G con One UI 4.1 (versione italiana). Rimuovi le app inutili, alcune delle quali scambiano dati in background, aumentando la tua privacy.
 
 E' possibile monitorare lo scambio dati in background tramite l'app gratuita e open source [PCAPdroid](https://play.google.com/store/apps/details?id=com.emanuelef.remote_capture).
 
@@ -68,9 +68,6 @@ drop com.aura.oobe.samsung.gl
 # app manager
 drop com.microsoft.appmanager
 
-# samsung browser
-drop com.sec.android.app.sbrowser
-
 # galaxy store
 drop com.sec.android.app.samsungapps
 
@@ -91,7 +88,6 @@ drop de.axelspringer.yana.zeropage
 
 # altro
 drop com.samsung.android.server.wifi.mobilewips
-drop com.samsung.android.app.dressroom
 ```
 
 Per reinstallare un pacchetto precedentemente disinstallato è sufficiente eseguire `restore` seguito dal nome del pacchetto (e.g. `restore com.sec.android.app.sbrowser`)
