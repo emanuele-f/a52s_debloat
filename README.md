@@ -53,7 +53,7 @@ Per fare il debloat su Windows seguire i seguenti passaggi:
 2. Sul cell, abilitare la modalità sviluppatore (fare tap più volte su versione build in informazioni software)
 3. In opzioni sviluppatore, abilitare il debug USB
 4. Collegare il cell al pc tramite cavo USB
-5. Aprire una [finestra di terminale dentro la cartella](https://www.easypc.altervista.org/guide/come-aprire-il-prompt-dei-comandi-da-una-cartella-specifica) dei command line tools precedentemente scaricata, eseguire `adb shell` e copiare ed incollare i seguenti comandi (leggi i commenti per evitare di eliminare app che utilizzi)
+5. Aprire una [finestra di terminale dentro la cartella](https://www.easypc.altervista.org/guide/come-aprire-il-prompt-dei-comandi-da-una-cartella-specifica) dei command line tools precedentemente scaricata, eseguire `adb shell` e copiare ed incollare i seguenti comandi (è possibili copiare e incollare tutto in una volta, le righe con cancelletto sono commenti e vengono ignorati)
 
 ```bash
 # creare i seguenti alias per accorciare le operazioni successive
