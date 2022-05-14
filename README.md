@@ -10,8 +10,6 @@ Tramite l'app gratuita e open source [PCAPdroid](https://play.google.com/store/a
     height="80">
 </a> <a href='https://play.google.com/store/apps/details?id=com.emanuelef.remote_capture'><img height="80" alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png'/></a>
 
-La sezione sottostante *Dati in background* riporta il risultato di una cattura effettuata tramite PCAPdroid.
-
 
 ## Dati in background
 
