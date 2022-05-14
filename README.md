@@ -26,6 +26,7 @@ Archivio             - com.sec.android.app.myfiles                - vas.samsunga
 Camera               - com.sec.android.app.camera                 - vas.samsungapps.com
 Complemento de Il t..- com.microsoft.appmanager                   - *microsoft.com
 Drive                - com.google.android.apps.docs               - *googleapis.com
+Duo                  - com.google.android.apps.tachyon            - instantmessaging-pa.googleapis.com
 Galleria             - com.sec.android.gallery3d                  - vas.samsungapps.com, clients4.google.com
 Game Booster         - com.samsung.android.game.gametools         - vas.samsungapps.com
 Google               - com.google.android.googlequicksearchbox    - geller-pa.googleaps.com, www.google.com
@@ -121,6 +122,9 @@ drop com.samsung.android.oneconnect
 
 # upday (news)
 drop de.axelspringer.yana.zeropage
+
+# google duo
+drop com.google.android.apps.tachyon
 
 # altro
 drop com.samsung.android.server.wifi.mobilewips
