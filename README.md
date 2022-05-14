@@ -127,6 +127,8 @@ drop com.samsung.android.server.wifi.mobilewips
 drop com.google.android.videos
 ```
 
+Dopo aver fatto il debloat, riavviare il cell e testare le varie funzioni di sistema per assicurarsi che non ci siano problemi. In contemporanea, eseguire `adb logcat *:E` per rilevare eventuali crash latenti.
+
 Per reinstallare un pacchetto precedentemente disinstallato è sufficiente eseguire `restore` seguito dal nome del pacchetto (e.g. `restore com.sec.android.app.sbrowser`). Potrebbe non esser possibile reinstallare alcuni pacchetti. In tal caso, un factory reset riporta il cell al suo stato originale.
 
 
