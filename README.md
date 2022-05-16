@@ -28,6 +28,7 @@ Complemento de Il t..- com.microsoft.appmanager                   - *microsoft.c
 Drive                - com.google.android.apps.docs               - *googleapis.com
 Duo                  - com.google.android.apps.tachyon            - instantmessaging-pa.googleapis.com
 Galleria             - com.sec.android.gallery3d                  - vas.samsungapps.com, clients4.google.com
+Game Optimizing Ser..- com.samsung.android.game.gos               - gos-api.gos-gsp.io
 Game Booster         - com.samsung.android.game.gametools         - vas.samsungapps.com
 Google               - com.google.android.googlequicksearchbox    - geller-pa.googleaps.com, www.google.com
 Google TV            - com.google.android.videos                  - *googleapis.com
